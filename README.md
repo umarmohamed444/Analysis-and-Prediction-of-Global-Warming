@@ -38,7 +38,7 @@ Global warming stands as one of the most important challenges of our time, with 
 ![Github Logo](Screenshot 2023-11-23 120928.png)
 
 #### Output2 - CO2 trend
-![Github Logo](Screenshot 2023-11-23 121243.png)
+![Github Logo]Screenshot 2023-11-23 121243.png
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
