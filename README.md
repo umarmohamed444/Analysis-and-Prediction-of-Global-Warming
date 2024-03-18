@@ -27,7 +27,9 @@ Global warming stands as one of the most important challenges of our time, with 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Github Logo](Screenshot 2023-11-27 162038.png)
+
+
+![Screenshot 2023-11-25 134253](https://github.com/umarmohamed444/Analysis-and-Prediction-of-Global-Warming/blob/main/Screenshot%202023-11-27%20162038.png)
 
 
 ## Output
@@ -35,12 +37,13 @@ Global warming stands as one of the most important challenges of our time, with 
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Earth's surface temperature trend
 
-![Github Logo](Screenshot 2023-11-23 120928.png)
+![Screenshot 2023-11-25 134253](https://github.com/umarmohamed444/Analysis-and-Prediction-of-Global-Warming/blob/main/Screenshot%202023-11-27%20162038.png)
 
 #### Output2 - CO2 trend
 ![Github Logo]Screenshot 2023-11-23 121243.png
 
-Detection Accuracy: 96.7%
+Prediction Accuracy:
+RMSE: 0.0229  & 0.1263
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
@@ -51,7 +54,6 @@ Urban population growth and CO2 concentration contribute to temperature rise.
 Future temperature predictions indicate significant warming trends.
 Impacts of global warming include drastic weather events, sea level rise, biodiversity loss, water scarcity.
 Collaborative efforts needed for effective climate change mitigation.
-![image](https://github.com/umarmohamed444/Analysis-and-Prediction-of-Global-Warming/assets/102782699/369f2103-8b09-47b5-bb18-4f7629968d90)
 
 
 ## Articles published
