@@ -46,9 +46,13 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+ARIMAX and VECM models perform well in temperature prediction (RMSE: 0.1229 and 0.1263 respectively).
+Urban population growth and CO2 concentration contribute to temperature rise.
+Future temperature predictions indicate significant warming trends.
+Impacts of global warming include drastic weather events, sea level rise, biodiversity loss, water scarcity.
+Collaborative efforts needed for effective climate change mitigation.
+![image](https://github.com/umarmohamed444/Analysis-and-Prediction-of-Global-Warming/assets/102782699/369f2103-8b09-47b5-bb18-4f7629968d90)
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published
 1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
