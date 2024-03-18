@@ -1,6 +1,5 @@
-<!--Title of the Project-->
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+ANALYSIS AND PREDICTION OF gLOBAL WARMING
+The project seeks to employ advanced machine learning methodologies to analyze historical climate data, predict future temperature trends, and assess the influence of greenhouse gas emissions on global warming.
 
 ## About
 <!--Detailed Description about the project-->
