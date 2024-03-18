@@ -37,10 +37,34 @@ Global warming stands as one of the most important challenges of our time, with 
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Earth's surface temperature trend
 
-![Screenshot 2023-11-25 134253](https://github.com/umarmohamed444/Analysis-and-Prediction-of-Global-Warming/blob/main/Screenshot%202023-11-27%20162038.png)
+![Screenshot 2023-11-25 134253](https://github.com/umarmohamed444/Analysis-and-Prediction-of-Global-Warming/blob/main/Screenshot%202023-11-23%20120928.png)
 
 #### Output2 - CO2 trend
-![Github Logo]Screenshot 2023-11-23 121243.png
+![Github Logo](https://github.com/umarmohamed444/Analysis-and-Prediction-of-Global-Warming/blob/main/Screenshot%202023-11-23%20121243.png)
+
+#### Output2 - Earth surface and CO2 trend
+![Github Logo](https://github.com/umarmohamed444/Analysis-and-Prediction-of-Global-Warming/blob/main/Screenshot%202023-11-23%20121826.png)
+
+#### Output3 - SARIMAX RESULTS
+![sarimax](https://github.com/umarmohamed444/Analysis-and-Prediction-of-Global-Warming/blob/main/Screenshot%202023-11-24%20083736.png)
+
+#### Output4 - ARIMAX results
+![arimax](https://github.com/umarmohamed444/Analysis-and-Prediction-of-Global-Warming/blob/main/Screenshot%202023-11-24%20090345.png)
+
+#### Output5 - VAR results
+![VAR](https://github.com/umarmohamed444/Analysis-and-Prediction-of-Global-Warming/blob/main/Screenshot%202023-11-24%20091943.png)
+
+#### Output6 - VECM results
+![VECM](https://github.com/umarmohamed444/Analysis-and-Prediction-of-Global-Warming/blob/main/Screenshot%202023-11-24%20113828.png)
+
+#### OUTput7 - 10 years prediction
+![10](https://github.com/umarmohamed444/Analysis-and-Prediction-of-Global-Warming/blob/main/Screenshot%202023-11-24%20193859.png)
+
+#### Output8 - 20 years prediction
+![20](https://github.com/umarmohamed444/Analysis-and-Prediction-of-Global-Warming/blob/main/Screenshot%202023-11-24%20194054.png)
+
+#### Output9 - 100 years prediction
+![100](https://github.com/umarmohamed444/Analysis-and-Prediction-of-Global-Warming/blob/main/Screenshot%202023-11-24%20194426.png)
 
 Prediction Accuracy:
 RMSE: 0.0229  & 0.1263
@@ -57,8 +81,10 @@ Collaborative efforts needed for effective climate change mitigation.
 
 
 ## Articles published
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1.	Zheng, H. (2018) Analysis of Global Warming Using Machine Learning. Computational Water, Energy, and Environmental Engineering, 7(3), pp. 127-141.
+2.	Navaneetha Krishnan M, Ranjith R, Lavanya B. (2022) Climate Change Prediction Using ARIMA Model. Volume 10, Issue VI, June 2022 in 
+3.	Himanshu Vishwakarma.(2020) Climate Change Analysis Using Machine Learning. International Journal of Science and Research (IJSR), Volume 9 Issue 8, August 2020 .
+
 
 
 
